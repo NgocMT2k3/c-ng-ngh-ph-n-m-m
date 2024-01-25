@@ -1,0 +1,25 @@
+
+
+.row1 {
+    padding: 20px;
+    margin: 20px;
+}
+
+.img{
+    width: 150px; 
+    height: 150px;
+    border-radius: 50%; 
+    object-fit: cover; 
+    border: 3px solid #2e098c; 
+   
+}
+.name {
+    text-align: left;
+    padding: 0px;
+    
+}
+.row1 .text {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+}
