@@ -1,25 +1,22 @@
-
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #edf2f4;
+}
 
 .row1 {
-    padding: 20px;
-    margin: 20px;
+    width: 25vw;
+    height: 100vh;
+    background-color: rgba(233, 200, 101, 0.5);
+    float: left;
 }
-
-.img{
-    width: 150px; 
-    height: 150px;
+.img {
+    display: block;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
     border-radius: 50%; 
-    object-fit: cover; 
-    border: 3px solid #2e098c; 
-   
-}
-.name {
-    text-align: left;
-    padding: 0px;
-    
-}
-.row1 .text {
-    display: flex;
-    flex-direction: column;
-    align-items: left;
+    border: 3px solid #2e098c;     
 }
