@@ -1,0 +1,50 @@
+
+
+body{
+    background-color: #99bdff;
+    
+
+}
+.avt {
+   border-radius: 100px;
+   border: 3px solid royalblue;
+}
+h3{
+    font-family: 'Pacifico', cursive;
+}
+p{
+    font-family: 'Pacifico', cursive;
+}
+.button{
+    margin-bottom: 20px;
+    background-color: white;
+    border: 0;
+    width: 300px;
+    padding: 15px 0 15px 0;
+    border-radius: 100px;
+    font-family: 'Pacifico',cursiver;
+    font-size: 18px;
+    transition-duration: 0.3s;
+    transition-property: color ,background-color ;
+    cursor: pointer;
+}
+.button:hover{
+    color: white;
+    background-color: black;
+}
+h1 {
+    font-family: 'Pacifico', cursive;
+}
+b1{
+    font-size: 30px;
+    
+    margin-bottom: 20px;
+   
+    border: 0;
+    width: 300px;
+    padding: 15px 0 15px 0;
+    
+    
+
+    
+}
