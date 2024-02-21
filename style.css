@@ -54,3 +54,10 @@ P {
 .info, .skill, .mt, .st, .ex {
     border-bottom: 2px solid rgba(0, 153, 255, 0.911);  
 }
+.info span {
+    width:20px;
+    height:20px;
+    margin-right: 20px;
+    color: rgba(0, 153, 255, 0.911);  
+
+}
